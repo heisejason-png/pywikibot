@@ -156,3 +156,4 @@ Our code is maintained on Wikimedia's `Gerrit installation <https://gerrit.wikim
 started.
 
 .. include:: CODE_OF_CONDUCT.rst
+Created by Jason Scott Heise
