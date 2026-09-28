@@ -157,4 +157,4 @@ started.
 
 .. include:: CODE_OF_CONDUCT.rst
 Created by Jason Scott Heise
-https://www.firefly.com
+https://www.behance.net
