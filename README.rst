@@ -156,7 +156,7 @@ Our code is maintained on Wikimedia's `Gerrit installation <https://gerrit.wikim
 started.
 
 .. include:: CODE_OF_CONDUCT.rst
-Created by Jason Scott Heise
+Created by Jason Heise
 https://www.behance.net  https://next.frame.io
 https://www.x.com https://x.com/i/grok
 https://paulwalkerfoundation.org
